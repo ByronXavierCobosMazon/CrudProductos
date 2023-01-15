@@ -8,6 +8,6 @@ import CrudProducts from "./CrudProducts";
 
 ReactDOM.createRoot(document.getElementById('root')).render(
     <React.StrictMode>
-        <CRUDProducts/>    
+        <CrudProducts/>    
     </React.StrictMode>
 );
